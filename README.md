@@ -1,2 +1,2 @@
-# wrangle-openstreetmap-data
-Choose your own region of OpenStreetMap data to audit, clean, and import into your database of choice. You will then run queries on your database to inspect your cleaned data.
+# Wrangle openstreetmapb Data
+Select Toronto region of OpenStreetMap data to audit, clean, and import into MangoDB. Run queries on the database to inspect the cleaned data.
